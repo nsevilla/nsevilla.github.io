@@ -2,6 +2,10 @@ Ignacio (Nacho) Sevilla-Noarbe
 
 Staff scientist at CIEMAT-Fisica de Particulas, working on observational cosmology.
 
+### Contact
+
+nsevilla@gmail.com
+
 ### Projects
 
 I am currently part of the following collaborations:
@@ -10,9 +14,9 @@ I am currently part of the following collaborations:
 * Physics of the Accelerating Universe 
 * The Dark Energy Science Collaboration (for LSST)
 
+### Publications
 
-### Contact
+<a href="https://ui.adsabs.harvard.edu/search/fq=%7B!type%3Daqp%20v%3D%24fq_database%7D&fq_database=((database%3A%22astronomy%22)%20OR%20database%3A%22astronomy%22%20OR%20database%3A%22physics%22)&q=author%3A%22sevilla-noarbe%22%20or%20%20author%3A%22sevilla%2C%20i%22%20&sort=date%20desc%2C%20bibcode%20desc">A list of publications from NASA ADS</a> 
 
-nsevilla@gmail.com
 
 
