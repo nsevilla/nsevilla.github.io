@@ -1,4 +1,4 @@
-## Ignacio (Nacho) Sevilla-Noarbe
+## Nacho Sevilla-Noarbe
 
 Staff scientist at <a href="cfp.ciemat.es">CIEMAT-Fisica de Particulas</a>, working on observational cosmology.
 Currently my main line of work is developing the datasets used for inference of cosmological parameters. I am also interested in the large scale distribution of galaxies in the Universe and in the application of machine learning techniques to sift through the huge datasets that we have currently available (and possibly optimize what we learn from them as well).
