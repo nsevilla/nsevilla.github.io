@@ -21,8 +21,8 @@ nsevilla@gmail.com
 
 I am currently part of the following collaborations:
 
-* The Dark Energy Survey
-* Physics of the Accelerating Universe 
+* <a href="https://www.darkenergysurvey.org/">The Dark Energy Survey</a>
+* <a href="https://www.pausurvey.org/">Physics of the Accelerating Universe</a>
 * The Dark Energy Science Collaboration (for LSST)
 
 ### Publications
